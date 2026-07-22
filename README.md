@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # devboard-me
 =======
 # DevBoard — Advanced (UI + Go + Postgres)
